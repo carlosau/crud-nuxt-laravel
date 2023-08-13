@@ -1,0 +1,64 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt/types/nitro-imports"
+      ],
+      "#paths": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+      ],
+      "~/*": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+      ],
+      "@": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+      ],
+      "@/*": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+      ],
+      "~~": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+      ],
+      "~~/*": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+      ],
+      "@@": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+      ],
+      "@@/*": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+      ],
+      "assets": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/assets"
+      ],
+      "assets/*": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/assets/*"
+      ],
+      "public": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/public"
+      ],
+      "public/*": [
+        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/public/*"
+      ]
+    }
+  },
+  "include": [
+    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt/types/nitro-nuxt.d.ts",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ]
+}

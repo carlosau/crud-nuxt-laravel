@@ -1,0 +1,1 @@
+export { default } from "file:///home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
