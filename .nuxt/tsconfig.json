@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "strict": true,
     "allowJs": true,
-    "baseUrl": "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel",
+    "baseUrl": "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel",
     "noEmit": true,
     "resolveJsonModule": true,
     "allowSyntheticDefaultImports": true,
@@ -18,64 +18,64 @@
     ],
     "paths": {
       "~": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel"
       ],
       "~/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*"
       ],
       "@": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel"
       ],
       "@/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*"
       ],
       "~~": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel"
       ],
       "~~/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*"
       ],
       "@@": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel"
       ],
       "@@/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*"
       ],
       "assets": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/assets"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/assets"
       ],
       "assets/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/assets/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/assets/*"
       ],
       "public": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/public"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/public"
       ],
       "public/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/public/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/public/*"
       ],
       "#app": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/nuxt/dist/app"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/nuxt/dist/app"
       ],
       "#app/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/nuxt/dist/app/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/nuxt/dist/app/*"
       ],
       "vue-demi": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/nuxt/dist/app/compat/vue-demi"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/nuxt/dist/app/compat/vue-demi"
       ],
       "#vue-router": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt/vue-router"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/.nuxt/vue-router"
       ],
       "#imports": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt/imports"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/.nuxt/imports"
       ],
       "#build": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/.nuxt"
       ],
       "#build/*": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt/*"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/.nuxt/*"
       ],
       "#components": [
-        "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/.nuxt/components"
+        "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/.nuxt/components"
       ]
     }
   },
@@ -83,14 +83,14 @@
     "./nuxt.d.ts",
     "../**/*",
     "../**/*",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel",
-    "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/*"
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel",
+    "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/*"
   ],
   "exclude": [
     "../dist",

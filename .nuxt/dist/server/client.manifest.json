@@ -6,10 +6,10 @@
     "module": true,
     "resourceType": "script"
   },
-  "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/nuxt/dist/app/entry.js": {
+  "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/nuxt/dist/app/entry.js": {
     "resourceType": "script",
     "module": true,
     "isEntry": true,
-    "file": "/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/nuxt/dist/app/entry.js"
+    "file": "/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/nuxt/dist/app/entry.js"
   }
 }

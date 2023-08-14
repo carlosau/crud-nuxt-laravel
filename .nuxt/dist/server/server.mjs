@@ -1,1 +1,1 @@
-export { default } from "file:///home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

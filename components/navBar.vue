@@ -1,4 +1,5 @@
 <template>
+        <LoginModal v-show="showloginModal" @close-modal="showloginModal = false"/>
     <div class="flex justify-between w-full p-4 bg-blue-600 text-blue-200 shadow-md">
         <div>
             <p><NuxtLink to="/">LOGO</NuxtLink></p>
@@ -17,4 +18,5 @@
 </template>
 
 <script setup>
+let showloginModal = ref(false)
 </script>

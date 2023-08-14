@@ -1,5 +1,5 @@
 
-import { defuFn } from '/home/carlosau/Documents/DEV-Fedora-notebook/crud-nuxt-laravel/node_modules/defu/dist/defu.mjs'
+import { defuFn } from '/home/carlossouza/Documents/DEV/nuxt/crud-nuxt-laravel/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
